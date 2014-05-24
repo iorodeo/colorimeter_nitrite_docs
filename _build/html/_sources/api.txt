@@ -1,4 +1,4 @@
-API ammonia test kit
+API nitrite test kit
 ========================
 
 .. figure:: _static/nitrite_api.JPG
@@ -12,7 +12,7 @@ Reagents & Equipment
 * Colorimeter
 * Cuvettes
 * 5 mL sample bottles or other capped tubes
-* API ammonia test kit
+* API nitrite test kit
 * (Optional) Distilled water for sample dilutions
 
 Colorimeter set-up
